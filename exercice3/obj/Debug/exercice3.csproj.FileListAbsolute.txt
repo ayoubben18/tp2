@@ -1,0 +1,7 @@
+C:\Users\Ayoub\source\repos\tp2\exercice3\bin\Debug\exercice3.exe.config
+C:\Users\Ayoub\source\repos\tp2\exercice3\bin\Debug\exercice3.exe
+C:\Users\Ayoub\source\repos\tp2\exercice3\bin\Debug\exercice3.pdb
+C:\Users\Ayoub\source\repos\tp2\exercice3\obj\Debug\exercice3.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\tp2\exercice3\obj\Debug\exercice3.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\tp2\exercice3\obj\Debug\exercice3.exe
+C:\Users\Ayoub\source\repos\tp2\exercice3\obj\Debug\exercice3.pdb
